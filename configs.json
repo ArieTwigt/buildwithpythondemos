@@ -1,0 +1,12 @@
+[{
+    "locatie": "Enschede",
+    "url": "api.enschede.com",
+    "waarden": [3,4,5,6,7,8],
+    "huizen" : {
+        "huis_1" : 1
+    }
+},
+{
+    "locatie": "Enschede",
+    "url": "api.enschede.com"
+}]
